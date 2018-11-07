@@ -1,0 +1,52 @@
+body{
+  background-color: white;
+  font-family: Helvetica;
+  text-align: center;
+}
+
+h1{
+  font-size: 70px;
+  font-weight: bold;
+  color: white;
+}
+
+h2{
+  font-size: 32px;
+  font-weight: bold;
+}
+
+h3{
+  font-size: 23px;
+  font-weight: bold;
+}
+
+p{
+  font-size: 14px;
+}
+
+a{
+color: white;
+font-size: 18px;
+font-weight: bold;
+}
+
+h4{
+  font-size: 11px;
+}
+
+.background2{
+  background: url("./resources/background.png");
+  font-size: 23px;
+  color: white;
+  font-weight: bold;
+}
+
+.background{
+  background: url("./resources/background.png");
+}
+
+.footer{
+  background-color: dimgray;
+  color: white;
+  text-align: left;
+}
